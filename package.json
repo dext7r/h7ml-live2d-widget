@@ -1,0 +1,10 @@
+{
+  "version": "0.8.5",
+  "name": "h7ml-live2d-widget",
+  "main": "autoload.js",
+  "module": "autoload.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h7ml/h7ml-live2d-widget"
+  }
+}
